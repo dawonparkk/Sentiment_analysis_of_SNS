@@ -21,7 +21,7 @@
 
 *주무관님의 추가 요청*
   * 원하는 섹션별로 전문 가져오기 
-   ![기준](https://user-images.githubusercontent.com/60343930/148387120-a6951027-0861-4386-9eaf-147641881c1f.png)
+  * ![기준](https://user-images.githubusercontent.com/60343930/148387120-a6951027-0861-4386-9eaf-147641881c1f.png)
   * [경향(블로그 코드설명)](https://pickwon.tistory.com/74)
   * [중앙(블로그 코드설명)](https://pickwon.tistory.com/71)
 
