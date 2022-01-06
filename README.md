@@ -5,7 +5,7 @@
 * 기간 : 2020.10 ~ 2020.12
 
 ## 1. 코드 설명 
----
+
 1) 네이버_뉴스_크롤링
  * 데이터 셋 확보
 
@@ -17,19 +17,20 @@
 3) 최종 모델 BERT
 
 4) 뉴스 크롤링(중앙/경향)
+
  #### 주무관님의 추가 요청 
  * 원하는 섹션별로 전문 가져오기 
  ![기준](https://user-images.githubusercontent.com/60343930/148387120-a6951027-0861-4386-9eaf-147641881c1f.png)
  * [경향](https://pickwon.tistory.com/74)
  * [중앙](https://pickwon.tistory.com/71)
  
- ---
 ## 2. 최종 보고서 
+
 [최종 보고서](https://drive.google.com/file/d/1dQZiu08gpMPn4Te9dkGFJKTh6D8X2Amf/view?usp=sharing)
 
 
 ## 3. 참여자
----
+
 1) 과제 책임자 
  * 김도연
  * 김주영
