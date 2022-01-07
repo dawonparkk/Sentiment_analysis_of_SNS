@@ -29,7 +29,7 @@
   * __Bert_3.ipynb__ -> Bert 모델 학습_2
   * __BoW,keras_분노.ipynb__ -> BoW,keras_분노.ipynb -> bag of words에서 상위 n개의 단어로 keras 학습 모델
   * __glove.ipynb__ -> glove로 임베딩 후 keras에서 weight 부여
-  * __word2vec으로_.ipynb__ -> word2vec통해 임베딩 후 keras 모델 적용
+  * __word2vec으로.ipynb__ -> word2vec통해 임베딩 후 keras 모델 적용
   * __word2vec을_통한_단어별_좌표이용.ipynb__ -> word2vec통해 임베딩 후 머신러닝과 keras 모델 적용
   * __저장된_모델을_불러와_테스트.ipynb__ -> 저장된 Bert 모델을 불러와 TEST
 
