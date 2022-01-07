@@ -24,7 +24,7 @@
   * [경향(블로그 코드설명)](https://pickwon.tistory.com/74)
   * [중앙(블로그 코드설명)](https://pickwon.tistory.com/71)
 
-#### 5)  코드
+#### 5) 시도해본 코드
   * __Bert.ipynb__ -> Bert 모델 학습_1
   * __Bert_3.ipynb__ -> Bert 모델 학습_2
   * __BoW,keras_분노.ipynb__ -> BoW,keras_분노.ipynb -> bag of words에서 상위 n개의 단어로 keras 학습 모델
